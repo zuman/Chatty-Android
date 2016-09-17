@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="libs/activation.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/additionnal.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/mail.jar"/>
+	<classpathentry kind="lib" path="F:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-19/android.jar" sourcepath="/home/zuman/Documents/adt-bundle-linux-x86_64-20140321/sdk/sources/android-19">
+		<accessrules>
+			<accessrule kind="nonaccessible" pattern="com/android/internal/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

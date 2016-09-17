@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">Chatty</string>
+    <string name="netcheckmsg">Please check your internet connection and try again.</string>
+
+</resources>
